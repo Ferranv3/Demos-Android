@@ -2,7 +2,9 @@
 All of this folders contains android app's which you can run easily.
 
 ## Screenshots
-![Imagen aplicacion hecha en Visual Basic .NET](https://github.com/Ferranv3/Demos/blob/master/GestioHospital/GestioHospitalVisualBasic.PNG)
+![Imagen app Android](https://github.com/Ferranv3/Demos-Android/blob/master/Screenshots/CapturaAppMapsCoronavirus.PNG)
+
+![Imagen2 app Android](https://github.com/Ferranv3/Demos-Android/blob/master/Screenshots/Captura2AppMapsCoronavirus.PNG)
 
 ## How to run
 Just download the apk file into the device and then execute it to install the app.
